@@ -1,20 +1,15 @@
-# 🦀 Rust Projects Repository  
+# 🎲 Mini Ludo Game (Rust)
 
-Welcome to my **Rust Projects** repository! 🚀  
-This repo is dedicated to my Rust learning journey where I’ll be building projects from **very small beginner-level** programs to **intermediate-level** applications.  
-
-Whenever I learn a new concept, I’ll implement it in the form of a **mini-project** or **weekly project** and upload it here.  
+A simple **Ludo-inspired CLI game** built in **Rust**.  
+This project demonstrates Rust fundamentals like ownership, enums, pattern matching, and basic game logic.
 
 ---
 
-## 📌 Goals of This Repository  
-- Learn Rust step by step (basics → advanced concepts).  
-- Practice coding by making practical projects.  
-- Share progress weekly by uploading projects.  
-- Build a solid foundation in **systems programming** and **performance-focused development**.  
+## 🚀 Features
+- Turn-based gameplay  
+- Simple dice roll simulation (1–6)  
+- Movement of tokens around the board  
+- Basic winning conditions  
 
 ---
-
-## 📂 Repository Structure  
-Projects will be organized in folders:  
 
